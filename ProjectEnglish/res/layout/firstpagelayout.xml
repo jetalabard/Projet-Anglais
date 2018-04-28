@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:id="@+id/parent"
+    android:background="@drawable/fd2">
+
+      <RelativeLayout
+        android:id="@+id/relativePage"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/textNbLevel"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_alignParentRight="true"
+            android:layout_margin="10dp"
+            android:background="@drawable/greencircle"
+            android:gravity="center_vertical|center_horizontal"
+            android:textColor="@color/blanc"
+            android:textSize="20sp" />
+    </RelativeLayout>
+    
+     
+    <ImageView
+         android:id="@+id/tabPeriod"
+         android:layout_width="fill_parent"
+         android:layout_height="wrap_content"
+         android:layout_below="@id/relativePage"
+         android:layout_gravity="center_horizontal"
+         android:adjustViewBounds="true"
+         android:maxWidth="200dp"
+         android:maxHeight="200dp"
+         android:contentDescription="@string/image" />
+
+    <Button
+        android:id="@+id/buttonStart"
+        android:layout_width="fill_parent"
+        android:layout_gravity="center_horizontal|center"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_margin="5dp"
+        android:layout_below="@id/tabPeriod"
+        android:background="@drawable/button"
+        android:text="@string/play"
+        android:textColor="@color/blanc"
+        android:textSize="25sp" />
+
+    <Button
+        android:id="@+id/buttonStat"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/buttonStart"
+        android:layout_margin="5dp"
+        android:padding="10dp"
+        android:layout_marginBottom="15dp"
+        android:background="@drawable/button"
+        android:text="@string/statistic"
+        android:textColor="@color/blanc"
+        android:textSize="25sp" />
+
+</RelativeLayout>

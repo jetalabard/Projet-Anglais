@@ -1,0 +1,5 @@
+insert into Maj values(0,"Press on this button to update application","Update");
+insert into USER values(0,1);
+insert into QUESTION values(0,"question","reponse1","reponse2","reponse3","reponse4","reponseJuste","Theme",10,1,0);
+insert into QUESTION values(1,"question2","reponse1","reponse2","reponse3","reponse4","reponseJuste","Theme",10,1,0);
+insert into QUESTION values(2,"question3","reponse1","reponse2","reponse3","reponse4","reponseJuste","Theme",10,1,0);

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chemistry Quiz</string>
+    <string name="action_settings">Settings</string>
+	<string name="image">image</string>
+	<string name="maj">Erase</string>
+	<string name="level">Level : </string>
+	<string name="play">Game</string>
+	<string name="statistic">Statistics</string>
+	<string name="lose">You lose</string>
+	<string name="point">Point : </string>
+	<string name="nbPart">Number of part : </string>
+	<string name="nbWrong">Number of wrong question : </string>
+	<string name="nbAverage">Average number of question by game :</string>
+	<string name="nbQuestion">Total questions : </string>
+	<string name="nbQuestionLose">Number of questions in this game : </string>
+	<string name="pointLose">Gain point : </string> 
+	<string name="facebook_app_id">1512400389069201</string>
+</resources>

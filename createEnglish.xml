@@ -1,0 +1,420 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="createEnglish.xslt" ?>
+<questions>
+  <question>
+    <id>0</id>
+    <quest>Among  the glass which is used for temporarily storing volatile chemicals and perform chemical reactions ?</quest>
+    <rep1>goblet.png</rep1>
+    <rep2>Erlenmeyer.png</rep2>
+    <rep3>beaker.png</rep3>
+    <rep4>tubes.png</rep4>
+    <repJuste>Erlenmeyer.png</repJuste>
+    <theme>Usual glassware</theme>
+    <point>10</point>
+    <niveau>1</niveau>
+    <image>1</image>
+  </question>
+  <question>
+    <id>1</id>
+    <quest>What is the equipment to measure the cumulative volume and used mainly for dosing?</quest>
+    <rep1>graduated pipette.png</rep1>
+    <rep2>Erlenmeyer.png</rep2>
+    <rep3>burette.png</rep3>
+    <rep4>volumetric pipette.png</rep4>
+    <repJuste>burette.png</repJuste>
+    <theme>Glassware for measuring</theme>
+    <point>10</point>
+    <niveau>1</niveau>
+    <image>1</image>
+  </question>
+  <question>
+    <id>2</id>
+    <quest>Magnetic agitator?</quest>
+    <rep1>1.png</rep1>
+    <rep2>2.png</rep2>
+    <rep3>3.png</rep3>
+    <rep4>4.png</rep4>
+    <repJuste>4.png</repJuste>
+    <theme>Various accessories</theme>
+    <point>10</point>
+    <niveau>1</niveau>
+    <image>1</image>
+  </question>
+  <question>
+    <id>3</id>
+    <quest>Distillation ?</quest>
+    <rep1>distillation1.png</rep1>
+    <rep2>distillation2.png</rep2>
+    <rep3>distillation3.png</rep3>
+    <rep4>distillation4.png</rep4>
+    <repJuste>distillation1.png</repJuste>
+    <theme>Specific technical</theme>
+    <point>10</point>
+    <niveau>1</niveau>
+    <image>1</image>
+  </question>
+  <question>
+    <id>4</id>
+    <quest>Mass of a proton ?</quest>
+    <rep1>1.672 6231 x 10-27 kg</rep1>
+    <rep2>9.109 3897 x 10-31 kg</rep2>
+    <rep3>1,674 94 × 10-27 kg</rep3>
+    <rep4>1.542 × 10-27 kg</rep4>
+    <repJuste>1.672 6231 x 10-27 kg</repJuste>
+    <theme>Chemistry laboratory equipment</theme>
+    <point>15</point>
+    <niveau>2</niveau>
+    <image>0</image>
+  </question>
+  <question>
+    <id>5</id>
+    <quest>What is atomic number of hydrogen?</quest>
+    <rep1>1</rep1>
+    <rep2>3</rep2>
+    <rep3>5</rep3>
+    <rep4>6</rep4>
+    <repJuste>1</repJuste>
+    <theme>Atomic number</theme>
+    <point>15</point>
+    <niveau>2</niveau>
+    <image>0</image>
+  </question>
+  <question>
+    <id>6</id>
+    <quest>What is atomic number of carbon?</quest>
+    <rep1>5</rep1>
+    <rep2>10</rep2>
+    <rep3>14</rep3>
+    <rep4>16</rep4>
+    <repJuste>14</repJuste>
+    <theme>Atomic number</theme>
+    <point>15</point>
+    <niveau>2</niveau>
+    <image>0</image>
+  </question>
+  <question>
+    <id>7</id>
+    <quest>What is atomic number of oxygene?</quest>
+    <rep1>2</rep1>
+    <rep2>4</rep2>
+    <rep3>6</rep3>
+    <rep4>8</rep4>
+    <repJuste>8</repJuste>
+    <theme>Atomic number</theme>
+    <point>15</point>
+    <niveau>2</niveau>
+    <image>0</image>
+  </question>
+  <question>
+    <id>8</id>
+    <quest>The periodic table has 18 columns. Which represents the first column?</quest>
+    <rep1>Alkali</rep1>
+    <rep2>Earth alkali</rep2>
+    <rep3>Rare gases</rep3>
+    <rep4>Halogens</rep4>
+    <repJuste>Alkali</repJuste>
+    <theme>The periodic table</theme>
+    <point>25</point>
+    <niveau>3</niveau>
+    <image>0</image>
+  </question>
+  <question>
+    <id>9</id>
+    <quest>The periodic table has 18 columns. Which represents the second column?</quest>
+    <rep1>Halogens</rep1>
+    <rep2>Earth alkali</rep2>
+    <rep3>Pnicogen</rep3>
+    <rep4>Rare gases</rep4>
+    <repJuste>Earth alkali</repJuste>
+    <theme>The periodic table</theme>
+    <point>25</point>
+    <niveau>3</niveau>
+    <image>0</image>
+  </question>
+  <question>
+    <id>10</id>
+    <quest>The periodic table has 18 columns. Which represents the eighteenth column?</quest>
+    <rep1>Earthy</rep1>
+    <rep2>Rare gases</rep2>
+    <rep3>Carbonide</rep3>
+    <rep4>Earth alkali</rep4>
+    <repJuste>Rare gases</repJuste>
+    <theme>The periodic table</theme>
+    <point>25</point>
+    <niveau>3</niveau>
+    <image>0</image>
+  </question>
+  <question>
+    <id>11</id>
+    <quest>The periodic table has 18 columns. Which represents the fourteenth column?</quest>
+    <rep1>Carbonides</rep1>
+    <rep2>Alkali</rep2>
+    <rep3>Carbonide</rep3>
+    <rep4>Chalcogen</rep4>
+    <repJuste>Chalcogen</repJuste>
+    <theme>The periodic table</theme>
+    <point>25</point>
+    <niveau>3</niveau>
+    <image>0</image>
+  </question>
+  <question>
+    <id>12</id>
+    <quest>Atom symbol of helium ?</quest>
+    <rep1>He</rep1>
+    <rep2>H</rep2>
+    <rep3>Hg</rep3>
+    <rep4>Hf</rep4>
+    <repJuste>He</repJuste>
+    <theme>Symbol of atoms</theme>
+    <point>40</point>
+    <niveau>4</niveau>
+    <image>0</image>
+  </question>
+  <question>
+    <id>13</id>
+    <quest>Atom symbol of béryllium ?</quest>
+    <rep1>B</rep1>
+    <rep2>Be</rep2>
+    <rep3>Bi</rep3>
+    <rep4>Bh</rep4>
+    <repJuste>Be</repJuste>
+    <theme>Symbol of atoms</theme>
+    <point>40</point>
+    <niveau>4</niveau>
+    <image>0</image>
+  </question>
+  <question>
+    <id>14</id>
+    <quest>Atom symbol of potassium ?</quest>
+    <rep1>P</rep1>
+    <rep2>K</rep2>
+    <rep3>Pb</rep3>
+    <rep4>Po</rep4>
+    <repJuste>K</repJuste>
+    <theme>Symbol of atoms</theme>
+    <point>40</point>
+    <niveau>4</niveau>
+    <image>0</image>
+  </question>
+  <question>
+    <id>15</id>
+    <quest>Atom symbol of Tungsten ?</quest>
+    <rep1>W</rep1>
+    <rep2>Ti</rep2>
+    <rep3>Ta</rep3>
+    <rep4>Te</rep4>
+    <repJuste>W</repJuste>
+    <theme>Symbol of atoms</theme>
+    <point>40</point>
+    <niveau>4</niveau>
+    <image>0</image>
+  </question>
+  <question>
+    <id>16</id>
+    <quest>Structure of the alkane?</quest>
+    <rep1>alkane1.png</rep1>
+    <rep2>alkane2.png</rep2>
+    <rep3>alkane3.png</rep3>
+    <rep4>alkane4.png</rep4>
+    <repJuste>alkane1.png</repJuste>
+    <theme>Organic function</theme>
+    <point>60</point>
+    <niveau>5</niveau>
+    <image>1</image>
+  </question>
+  <question>
+    <id>17</id>
+    <quest>Structure of the group aromatic?</quest>
+    <rep1>aromatique1.png</rep1>
+    <rep2>aromatique2.png</rep2>
+    <rep3>aromatique3.png</rep3>
+    <rep4>aromatique4.png</rep4>
+    <repJuste>aromatique3.png</repJuste>
+    <theme>Organic function</theme>
+    <point>60</point>
+    <niveau>5</niveau>
+    <image>1</image>
+  </question>
+  <question>
+    <id>18</id>
+    <quest>Structure of the group ester?</quest>
+    <rep1>ester1.png</rep1>
+    <rep2>ester2.png</rep2>
+    <rep3>ester3.png</rep3>
+    <rep4>ester4.png</rep4>
+    <repJuste>ester2.png</repJuste>
+    <theme>Organic function</theme>
+    <point>60</point>
+    <niveau>5</niveau>
+    <image>1</image>
+  </question>
+  <question>
+    <id>19</id>
+    <quest>Structure of the amide groups ?</quest>
+    <rep1>amide1.png</rep1>
+    <rep2>amide2.png</rep2>
+    <rep3>amide3.png</rep3>
+    <rep4>amide4.png</rep4>
+    <repJuste>amide4.png</repJuste>
+    <theme>Organic function</theme>
+    <point>60</point>
+    <niveau>5</niveau>
+    <image>1</image>
+  </question>
+  <question>
+    <id>20</id>
+    <quest>The general formul of a secondary alcohol?</quest>
+    <rep1>acohol1.png</rep1>
+    <rep2>acohol2.png</rep2>
+    <rep3>acohol3.png</rep3>
+    <rep4>acohol4.png</rep4>
+    <repJuste>acohol2.png</repJuste>
+    <theme>Alcohol</theme>
+    <point>80</point>
+    <niveau>6</niveau>
+    <image>1</image>
+  </question>
+  <question>
+    <id>21</id>
+    <quest>Oxidation of a primary alcohol?</quest>
+    <rep1>aldehyde</rep1>
+    <rep2>ketone</rep2>
+    <rep3>carboxylic acid</rep3>
+    <rep4>alcane</rep4>
+    <repJuste>aldehyde</repJuste>
+    <theme>Alcohol</theme>
+    <point>80</point>
+    <niveau>6</niveau>
+    <image>0</image>
+  </question>
+  <question>
+    <id>22</id>
+    <quest>Complete ionization equations of the following atoms : Ca ->....+....</quest>
+    <rep1>Ca -> Ca++ + 2e-</rep1>
+    <rep2>Ca -> Ca++ + 2e+</rep2>
+    <rep3>Ca -> Ca++ + 1e-</rep3>
+    <rep4>Ca -> Ca+ + 2e-</rep4>
+    <repJuste>Ca -> Ca++ + 2e-</repJuste>
+    <theme>Alcohol</theme>
+    <point>80</point>
+    <niveau>6</niveau>
+    <image>0</image>
+  </question>
+  <question>
+    <id>23</id>
+    <quest>Complete ionization equations of the following atoms : Cu  ->....+....</quest>
+    <rep1>Cu -> Cu++ + 2e-</rep1>
+    <rep2>Cu -> Cu+ + 2e-</rep2>
+    <rep3>Cu -> Cu++ + 1e-</rep3>
+    <rep4>Cu -> Cu+ + 1e-</rep4>
+    <repJuste>Cu -> Cu+ + 1e-</repJuste>
+    <theme>Alcohol</theme>
+    <point>80</point>
+    <niveau>6</niveau>
+    <image>0</image>
+  </question>
+  <question>
+    <id>24</id>
+    <quest>The smell of ethyl ethanoate ?</quest>
+    <rep1>Remover</rep1>
+    <rep2>Pears</rep2>
+    <rep3>Oranges</rep3>
+    <rep4>Pineapple</rep4>
+    <repJuste>Remover</repJuste>
+    <theme>Esters</theme>
+    <point>100</point>
+    <niveau>7</niveau>
+    <image>0</image>
+  </question>
+  <question>
+    <id>25</id>
+    <quest>The smell of ethyl methyl butanoate ?</quest>
+    <rep1>Apricots</rep1>
+    <rep2>Apples</rep2>
+    <rep3>Remover</rep3>
+    <rep4>Pears</rep4>
+    <repJuste>Apples</repJuste>
+    <theme>Esters</theme>
+    <point>100</point>
+    <niveau>7</niveau>
+    <image>0</image>
+  </question>
+  <question>
+    <id>26</id>
+    <quest>The smell of ethyl octyl ethanoate ?</quest>
+    <rep1>Pineapple</rep1>
+    <rep2>Grapefruits</rep2>
+    <rep3>Oranges</rep3>
+    <rep4>Citrus</rep4>
+    <repJuste>Oranges</repJuste>
+    <theme>Esters</theme>
+    <point>100</point>
+    <niveau>7</niveau>
+    <image>0</image>
+  </question>
+  <question>
+    <id>27</id>
+    <quest>The smell of ethyl pentyl Butanoate  ?</quest>
+    <rep1>Pineapple</rep1>
+    <rep2>Remover</rep2>
+    <rep3>Oranges</rep3>
+    <rep4>Apricots</rep4>
+    <repJuste>Apricots</repJuste>
+    <theme>Esters</theme>
+    <point>100</point>
+    <niveau>7</niveau>
+    <image>0</image>
+  </question>
+  <question>
+    <id>28</id>
+    <quest>What is the number of neutron(s) of a calcium atom (Ca) ?</quest>
+    <rep1>40</rep1>
+    <rep2>20</rep2>
+    <rep3>30</rep3>
+    <rep4>10</rep4>
+    <repJuste>20</repJuste>
+    <theme>Atom Structure</theme>
+    <point>100</point>
+    <niveau>8</niveau>
+    <image>0</image>
+  </question>
+  <question>
+    <id>29</id>
+    <quest>What is the number of nucleon(s) of aluminum atom (Al) ?</quest>
+    <rep1>27</rep1>
+    <rep2>22</rep2>
+    <rep3>32</rep3>
+    <rep4>17</rep4>
+    <repJuste>27</repJuste>
+    <theme>Atom Structure</theme>
+    <point>100</point>
+    <niveau>8</niveau>
+    <image>0</image>
+  </question>
+  <question>
+    <id>30</id>
+    <quest>What is the number of proton(s) of xenon atom (Xe) ?</quest>
+    <rep1>54</rep1>
+    <rep2>58</rep2>
+    <rep3>47</rep3>
+    <rep4>55</rep4>
+    <repJuste>54</repJuste>
+    <theme>Atom Structure</theme>
+    <point>100</point>
+    <niveau>8</niveau>
+    <image>0</image>
+  </question>
+  <question>
+    <id>31</id>
+    <quest>What is the number of nucleon(s) of xenon atom (Xe) ?</quest>
+    <rep1>76</rep1>
+    <rep2>12</rep2>
+    <rep3>131</rep3>
+    <rep4>168</rep4>
+    <repJuste>131</repJuste>
+    <theme>Atom Structure</theme>
+    <point>100</point>
+    <niveau>8</niveau>
+    <image>0</image>
+  </question>
+</questions>
